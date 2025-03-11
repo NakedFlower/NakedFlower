@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NakedFlower
-- 👀 I’m interested in crypto % AI engineering
+- 👀 I’m interested in crypto & AI engineering
 - 🌱 I’m currently learning Side Channel Attacks, 
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ... kokh1206@hanyang.ac.kr
