@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NakedFlower
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning Side Channel Attacks, 
+- 👀 I’m interested in Cloud Engineering
+- 🌱 I’m currently learning AWS, Network 
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me ... kokh1206@hanyang.ac.kr
+- 📫 How to reach me ... nakedflower02@gmail.com
 
 <!---
 NakedFlower/NakedFlower is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
