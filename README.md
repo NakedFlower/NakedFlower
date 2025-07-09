@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=NakedFlower's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=250&text=Welcome👋&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=80&fontColor=ffffff&desc=)
 <div align=center>
 
 
