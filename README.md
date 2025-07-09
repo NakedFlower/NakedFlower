@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=NakedFlower's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<center>
- 
+<div align=center>
+
+
 # 👩‍💻I'm interested in
-- Cloud Engineering
-- Network
-- Infra
+**Cloud Engineering**  
+Network  
+Infra
 
 # 💪Skills
 ### Languages
@@ -20,8 +21,4 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-green?style=flat-square&logo=velog&link=https://velog.io/@nakedflower)](https://velog.io/@nakedflower)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nakedflower02@gmail.com)](mailto:nakedflower02@gmail.com)
 
-</center>
-<!---
-NakedFlower/NakedFlower is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
