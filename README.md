@@ -15,6 +15,7 @@ Infra
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-3766AB.svg?&style=for-the-badge&logo=aws&logoColor=white)
  
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-green?style=flat-square&logo=velog&link=https://velog.io/@nakedflower)](https://velog.io/@nakedflower)
