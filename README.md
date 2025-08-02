@@ -23,5 +23,5 @@ Infra
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-green?style=flat-square&logo=velog&link=https://velog.io/@nakedflower)](https://velog.io/@nakedflower)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nakedflower02@gmail.com)](mailto:nakedflower02@gmail.com)
-
+https://www.notion.so/NakedFlower-1ae4c4ccbc2280e586b4c7eb0ef4acf7?source=copy_link
 </div>
