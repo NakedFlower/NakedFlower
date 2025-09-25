@@ -5,7 +5,7 @@
 # 👩‍💻I'm interested in
 **Cloud Engineering**  
 Network  
-Infra
+Infra 
 DevOps
 
 # 💪Skills
