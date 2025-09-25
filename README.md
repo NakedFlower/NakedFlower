@@ -4,7 +4,6 @@
 
 # 👩‍💻I'm interested in
 **Cloud Engineering**  
-Network  
 Infra  
 DevOps
 
