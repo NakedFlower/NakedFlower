@@ -6,6 +6,7 @@
 **Cloud Engineering**  
 Network  
 Infra
+DevOps
 
 # 💪Skills
 ### Languages
