@@ -22,7 +22,7 @@ DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-green?style=flat-square&logo=velog&link=https://velog.io/@nakedflower)](https://velog.io/@nakedflower)
+[![Tistory Badge](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white&link=https://nakedflower.tistory.com/)](https://nakedflower.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nakedflower02@gmail.com)](mailto:nakedflower02@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/NakedFlower-1ae4c4ccbc2280e586b4c7eb0ef4acf7?source=copy_link)
 </div>
