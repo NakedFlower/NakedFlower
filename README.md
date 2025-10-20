@@ -8,10 +8,10 @@ Infra
 DevOps
 
 # 💪Skills
-AWS 
-GCP 
-Github Actions 
-Linux 
+AWS  
+GCP  
+Github Actions  
+Linux  
  
 # :mailbox_with_mail: Contacts
 [![Tistory Badge](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white&link=https://nakedflower.tistory.com/)](https://nakedflower.tistory.com/)
