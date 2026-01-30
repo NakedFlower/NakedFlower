@@ -8,8 +8,7 @@ Infra
 DevOps
 
 # 💪Skills
-AWS  
-GCP  
+AWS,GCP  
 CI/CD  
 Python,C    
  
