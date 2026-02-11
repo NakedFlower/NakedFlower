@@ -2,18 +2,26 @@
 <div align=center>
 
 
-# 👩‍💻I'm interested in
+# I'm interested in
 **Cloud Engineering**  
 Infra  
 DevOps
 
-# 💪Skills
-AWS,GCP  
-CI/CD  
-Python,C    
- 
-# :mailbox_with_mail: Contacts
-[![Tistory Badge](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white&link=https://nakedflower.tistory.com/)](https://nakedflower.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nakedflower02@gmail.com)](mailto:nakedflower02@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/NakedFlower-1ae4c4ccbc2280e586b4c7eb0ef4acf7?source=copy_link)
-</div>
+## 🛠 Skills & Tools
+
+### **DevOps & Cloud**
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argocd&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+
+### **Languages**
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+
+## 🤝 Tools & Communication
+
+### **Design & Documentation**
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+
+### **Communication**
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
